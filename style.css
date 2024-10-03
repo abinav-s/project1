@@ -1,0 +1,20 @@
+table #cal
+{
+    border-collapse: collapse;
+    padding: 10px;
+    width: 190%;
+    background-color: white;
+    border: 1px solid white;
+}
+
+table #cal th, table #cal td
+{
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+
+table #cal th
+{
+    background-color: wheat;
+}
